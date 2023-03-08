@@ -16,6 +16,7 @@
 		F5F2AD7A29B8509700CBECBC /* ApplePie_GomezTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5F2AD7929B8509700CBECBC /* ApplePie_GomezTests.swift */; };
 		F5F2AD8429B8509700CBECBC /* ApplePie_GomezUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5F2AD8329B8509700CBECBC /* ApplePie_GomezUITests.swift */; };
 		F5F2AD8629B8509700CBECBC /* ApplePie_GomezUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5F2AD8529B8509700CBECBC /* ApplePie_GomezUITestsLaunchTests.swift */; };
+		F5F2AD9329B90BBE00CBECBC /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5F2AD9229B90BBE00CBECBC /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F5F2AD7F29B8509700CBECBC /* ApplePie_GomezUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ApplePie_GomezUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5F2AD8329B8509700CBECBC /* ApplePie_GomezUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplePie_GomezUITests.swift; sourceTree = "<group>"; };
 		F5F2AD8529B8509700CBECBC /* ApplePie_GomezUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplePie_GomezUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F5F2AD9229B90BBE00CBECBC /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				F5F2AD6229B8509600CBECBC /* AppDelegate.swift */,
 				F5F2AD6429B8509600CBECBC /* SceneDelegate.swift */,
 				F5F2AD6629B8509600CBECBC /* ViewController.swift */,
+				F5F2AD9229B90BBE00CBECBC /* Game.swift */,
 				F5F2AD6829B8509600CBECBC /* Main.storyboard */,
 				F5F2AD6B29B8509700CBECBC /* Assets.xcassets */,
 				F5F2AD6D29B8509700CBECBC /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				F5F2AD6729B8509600CBECBC /* ViewController.swift in Sources */,
 				F5F2AD6329B8509600CBECBC /* AppDelegate.swift in Sources */,
 				F5F2AD6529B8509600CBECBC /* SceneDelegate.swift in Sources */,
+				F5F2AD9329B90BBE00CBECBC /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
