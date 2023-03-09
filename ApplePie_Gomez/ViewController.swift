@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     }
     
     
-    var listOfWords = ["buccaneer", "swift", "glorious", "incandescent", "bug", "program"]
+    var listOfWords = ["programming", "swift", "start", "oop", "bug", "program"]
     
     let incorrectMovesAllowed = 7
     
